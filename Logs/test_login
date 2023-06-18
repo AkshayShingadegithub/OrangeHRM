@@ -1,0 +1,48 @@
+2023-06-16 18:48:22,210 : Testlogin : test_login_002 : 34 : test_login_002 is started
+2023-06-16 18:48:22,211 : Testlogin : test_login_002 : 35 : browser is opening
+2023-06-16 18:48:29,258 : Testlogin : test_login_002 : 38 : Entering username-->Admin
+2023-06-16 18:48:30,303 : Testlogin : test_login_002 : 40 : Entering password-->admin123
+2023-06-16 18:48:30,388 : Testlogin : test_login_002 : 42 : Click login
+2023-06-16 18:48:34,032 : Testlogin : test_login_002 : 48 : Click MenuButton
+2023-06-16 18:48:34,110 : Testlogin : test_login_002 : 50 : Click Logout
+2023-06-16 18:48:35,118 : Testlogin : test_login_002 : 52 : test_login_002 is Pass
+2023-06-16 18:48:35,118 : Testlogin : test_login_002 : 59 : test_login_002 is Completed
+2023-06-16 18:50:53,169 : Testlogin : test_Url_001 : 18 : test_Url_001 is started
+2023-06-16 18:50:53,169 : Testlogin : test_Url_001 : 19 : browser is opening
+2023-06-16 18:50:59,527 : Testlogin : test_Url_001 : 25 : test_Url_001 is Pass
+2023-06-16 18:50:59,527 : Testlogin : test_Url_001 : 30 : test_Url_001 is completed
+2023-06-16 18:51:01,333 : Testlogin : test_login_002 : 34 : test_login_002 is started
+2023-06-16 18:51:01,333 : Testlogin : test_login_002 : 35 : browser is opening
+2023-06-16 18:51:07,713 : Testlogin : test_login_002 : 38 : Entering username-->Admin
+2023-06-16 18:51:08,560 : Testlogin : test_login_002 : 40 : Entering password-->admin123
+2023-06-16 18:51:08,647 : Testlogin : test_login_002 : 42 : Click login
+2023-06-16 18:51:12,607 : Testlogin : test_login_002 : 48 : Click MenuButton
+2023-06-16 18:51:12,667 : Testlogin : test_login_002 : 50 : Click Logout
+2023-06-16 18:51:14,137 : Testlogin : test_login_002 : 52 : test_login_002 is Pass
+2023-06-16 18:51:14,137 : Testlogin : test_login_002 : 59 : test_login_002 is Completed
+2023-06-16 18:53:14,004 : Testlogin : test_login_002 : 34 : test_login_002 is started
+2023-06-16 18:53:14,004 : Testlogin : test_login_002 : 35 : browser is opening
+2023-06-16 18:53:14,061 : Testlogin : test_Url_001 : 18 : test_Url_001 is started
+2023-06-16 18:53:14,061 : Testlogin : test_Url_001 : 19 : browser is opening
+2023-06-16 18:53:22,282 : Testlogin : test_login_002 : 38 : Entering username-->Admin
+2023-06-16 18:53:22,948 : Testlogin : test_Url_001 : 25 : test_Url_001 is Pass
+2023-06-16 18:53:22,948 : Testlogin : test_Url_001 : 30 : test_Url_001 is completed
+2023-06-16 18:53:23,079 : Testlogin : test_login_002 : 40 : Entering password-->admin123
+2023-06-16 18:53:23,197 : Testlogin : test_login_002 : 42 : Click login
+2023-06-16 18:53:27,102 : Testlogin : test_login_002 : 48 : Click MenuButton
+2023-06-16 18:53:27,167 : Testlogin : test_login_002 : 50 : Click Logout
+2023-06-16 18:53:27,985 : Testlogin : test_login_002 : 52 : test_login_002 is Pass
+2023-06-16 18:53:27,987 : Testlogin : test_login_002 : 59 : test_login_002 is Completed
+2023-06-17 15:57:12,485 : Testlogin : test_Url_001 : 18 : test_Url_001 is started
+2023-06-17 15:57:12,485 : Testlogin : test_Url_001 : 19 : browser is opening
+2023-06-17 15:57:22,750 : Testlogin : test_Url_001 : 25 : test_Url_001 is Pass
+2023-06-17 15:57:22,750 : Testlogin : test_Url_001 : 30 : test_Url_001 is completed
+2023-06-17 15:57:24,340 : Testlogin : test_login_002 : 34 : test_login_002 is started
+2023-06-17 15:57:24,340 : Testlogin : test_login_002 : 35 : browser is opening
+2023-06-17 15:57:28,252 : Testlogin : test_login_002 : 38 : Entering username-->Admin
+2023-06-17 15:57:28,791 : Testlogin : test_login_002 : 40 : Entering password-->admin123
+2023-06-17 15:57:28,853 : Testlogin : test_login_002 : 42 : Click login
+2023-06-17 15:57:32,427 : Testlogin : test_login_002 : 48 : Click MenuButton
+2023-06-17 15:57:32,468 : Testlogin : test_login_002 : 50 : Click Logout
+2023-06-17 15:57:33,157 : Testlogin : test_login_002 : 52 : test_login_002 is Pass
+2023-06-17 15:57:33,157 : Testlogin : test_login_002 : 59 : test_login_002 is Completed

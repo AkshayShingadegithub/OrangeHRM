@@ -1,0 +1,18 @@
+2023-06-18 10:04:42,962 : Test_login_ddt : test_login_ddt_004 : 19 : test_login_ddt_004 is started
+2023-06-18 10:04:42,962 : Test_login_ddt : test_login_ddt_004 : 20 : browser is opening
+2023-06-18 10:04:50,111 : Test_login_ddt : test_login_ddt_004 : 29 : Entering username-->Admin
+2023-06-18 10:04:50,869 : Test_login_ddt : test_login_ddt_004 : 31 : Entering password-->admin123
+2023-06-18 10:04:50,970 : Test_login_ddt : test_login_ddt_004 : 33 : Click login
+2023-06-18 10:04:53,479 : Test_login_ddt : test_login_ddt_004 : 41 : Click MenuButton
+2023-06-18 10:04:53,548 : Test_login_ddt : test_login_ddt_004 : 43 : Click Logout
+2023-06-18 10:04:54,642 : Test_login_ddt : test_login_ddt_004 : 29 : Entering username-->Admin1
+2023-06-18 10:04:55,049 : Test_login_ddt : test_login_ddt_004 : 31 : Entering password-->admin123
+2023-06-18 10:04:55,153 : Test_login_ddt : test_login_ddt_004 : 33 : Click login
+2023-06-18 10:05:02,547 : Test_login_ddt : test_login_ddt_004 : 29 : Entering username-->Admin
+2023-06-18 10:05:02,605 : Test_login_ddt : test_login_ddt_004 : 31 : Entering password-->admin1231
+2023-06-18 10:05:02,693 : Test_login_ddt : test_login_ddt_004 : 33 : Click login
+2023-06-18 10:05:10,012 : Test_login_ddt : test_login_ddt_004 : 29 : Entering username-->Admin1
+2023-06-18 10:05:10,065 : Test_login_ddt : test_login_ddt_004 : 31 : Entering password-->admin1231
+2023-06-18 10:05:10,143 : Test_login_ddt : test_login_ddt_004 : 33 : Click login
+2023-06-18 10:05:18,504 : Test_login_ddt : test_login_ddt_004 : 65 : test_login_ddt_004 is Passed
+2023-06-18 10:05:18,587 : Test_login_ddt : test_login_ddt_004 : 72 : test_login_ddt_004 is Completed
